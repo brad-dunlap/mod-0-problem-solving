@@ -7,6 +7,7 @@
 
 string = ["dog", "wolf", "sheep", "mule", "lion"]
 string.each do |animal|
-if animal.length == 3
+if animal.length == 4
 p animal
+end
 end
