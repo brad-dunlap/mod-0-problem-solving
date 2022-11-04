@@ -12,3 +12,5 @@ array.each do |word|
         puts word
     end
 end
+
+
